@@ -1,0 +1,818 @@
+{
+  "n_results": 50,
+  "results_per_page": 50,
+  "results": [
+    {
+      "id": "FR_DE00011103",
+      "language": "fr",
+      "headword": {
+        "text": "tabac",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00016973",
+          "definition": "feuilles séchées que l'on fume"
+        },
+        {
+          "id": "FR_SE00016974",
+          "definition": "magasin où l'on vend du tabac, des cigarettes"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00112012",
+      "language": "fr",
+      "headword": {
+        "text": "sous-production",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00122494",
+          "definition": "production insuffisante, trop faible"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00110009",
+      "language": "fr",
+      "headword": {
+        "text": "rempoter",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00119308",
+          "definition": "mettre dans un nouveau pot"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00010910",
+      "language": "fr",
+      "headword": {
+        "text": "statut",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00016676",
+          "definition": "position, situation"
+        },
+        {
+          "id": "FR_SE00016677"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00092698",
+      "language": "fr",
+      "headword": {
+        "text": "bicentenaire",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00093881",
+          "definition": "anniversaire célébrant un événement qui s'est produit il y a deux cents ans"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00011401",
+      "language": "fr",
+      "headword": {
+        "text": "tracé",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00017586",
+          "definition": "ligne, dessin d'un emplacement"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00094275",
+      "language": "fr",
+      "headword": {
+        "text": "chape",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00096137",
+          "definition": "couche qui recouvre qqch"
+        },
+        {
+          "id": "FR_SE00096138"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00100425",
+      "language": "fr",
+      "headword": {
+        "text": "fiel",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00105294",
+          "definition": "méchanceté, amertume"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00111699",
+      "language": "fr",
+      "headword": {
+        "text": "sobriquet",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00121978",
+          "definition": "surnom familier"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00091256",
+      "language": "fr",
+      "headword": {
+        "text": "aorte",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00091817",
+          "definition": "artère principale"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00100350",
+      "language": "fr",
+      "headword": {
+        "text": "fertilité",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00105177",
+          "definition": "capacité à avoir des enfants"
+        },
+        {
+          "id": "FR_SE00105178",
+          "definition": "capacité à être cultivé"
+        },
+        {
+          "id": "FR_SE00105179",
+          "definition": "capacité à inventer"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00107922",
+      "language": "fr",
+      "headword": {
+        "text": "polémiquer",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00116041",
+          "definition": "provoquer une dispute, un débat"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00004694",
+      "language": "fr",
+      "headword": {
+        "text": "envoûter",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00006903",
+          "definition": "exercer un pouvoir magique sur qqn"
+        },
+        {
+          "id": "FR_SE00006904",
+          "definition": "séduire"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00104110",
+      "language": "fr",
+      "headword": {
+        "text": "levant",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00110328",
+          "definition": "endroit de l'horizon où le soleil apparaît le matin"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00099683",
+      "language": "fr",
+      "headword": {
+        "text": "Eurasien",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00104160",
+          "definition": "personne dont un des parents est européen et l'autre asiatique"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00096666",
+      "language": "fr",
+      "headword": {
+        "text": "défiance",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00099750",
+          "definition": "sentiment de méfiance, crainte d'être trompé"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00004938",
+      "language": "fr",
+      "headword": {
+        "text": "évidence",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00007299",
+          "definition": "ce qui est certain, sûr"
+        },
+        {
+          "id": "FR_SE00007300"
+        },
+        {
+          "id": "FR_SE00007301"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00108594",
+      "language": "fr",
+      "headword": {
+        "text": "prof",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00117082",
+          "definition": "professeur"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00004628",
+      "language": "fr",
+      "headword": {
+        "text": "enterrer",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00006799",
+          "definition": "mettre le cercueil d'un mort sous terre"
+        },
+        {
+          "id": "FR_SE00006800",
+          "definition": "mettre qqch dans la terre"
+        },
+        {
+          "id": "FR_SE00006801",
+          "definition": "abandonner"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00003188",
+      "language": "fr",
+      "headword": {
+        "text": "crise",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00004731",
+          "definition": "apparition soudaine d'une maladie"
+        },
+        {
+          "id": "FR_SE00004732",
+          "definition": "période difficile"
+        },
+        {
+          "id": "FR_SE00004733",
+          "definition": "réaction forte"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00011129",
+      "language": "fr",
+      "headword": {
+        "text": "talus",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00017017",
+          "definition": "terrain en pente"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00114616",
+      "language": "fr",
+      "headword": {
+        "text": "affranchir",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00000474",
+          "definition": "coller un timbre postal"
+        },
+        {
+          "id": "FR_SE00000475",
+          "definition": "rendre libre"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00004882",
+      "language": "fr",
+      "headword": {
+        "text": "étoile",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00007196",
+          "definition": "point qui brille dans le ciel, la nuit"
+        },
+        {
+          "id": "FR_SE00007197"
+        },
+        {
+          "id": "FR_SE00007198",
+          "definition": "destinée"
+        },
+        {
+          "id": "FR_SE00007199",
+          "definition": "figure en forme d'étoile"
+        },
+        {
+          "id": "FR_SE00007200"
+        },
+        {
+          "id": "FR_SE00007201",
+          "definition": "artiste très célèbre"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00004883",
+      "language": "fr",
+      "headword": {
+        "text": "étonnant",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00007202",
+          "definition": "qui cause de la surprise"
+        },
+        {
+          "id": "FR_SE00007203",
+          "definition": "d'une grande qualité"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00011404",
+      "language": "fr",
+      "headword": {
+        "text": "tracteur",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00017590",
+          "definition": "gros véhicule agricole"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00102963",
+      "language": "fr",
+      "headword": {
+        "text": "indubitable",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00108769",
+          "definition": "dont on ne peut pas douter"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00100734",
+      "language": "fr",
+      "headword": {
+        "text": "footing",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00105726",
+          "definition": "marche rapide"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00113994",
+      "language": "fr",
+      "headword": {
+        "text": "verdir",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00125564",
+          "definition": "faire devenir vert"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00095416",
+      "language": "fr",
+      "headword": {
+        "text": "consigner",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00097861",
+          "definition": "empêcher qqn de sortir par punition"
+        },
+        {
+          "id": "FR_SE00097862",
+          "definition": "déposer à la consigne"
+        },
+        {
+          "id": "FR_SE00097863",
+          "definition": "facturer qqch et le rembourser quand le client le rend"
+        },
+        {
+          "id": "FR_SE00097864",
+          "definition": "noter, rapporter par écrit"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00100911",
+      "language": "fr",
+      "headword": {
+        "text": "framboisier",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00106015",
+          "definition": "plante dont le fruit est la framboise"
+        },
+        {
+          "id": "FR_SE00106016",
+          "definition": "gâteau fourré aux framboises"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00101776",
+      "language": "fr",
+      "headword": {
+        "text": "gressin",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00107198",
+          "definition": "biscuit salé en forme de long bâtonnet"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00011789",
+      "language": "fr",
+      "headword": {
+        "text": "Verseau",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00018195",
+          "definition": "signe du zodiaque"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00111856",
+      "language": "fr",
+      "headword": {
+        "text": "sonorisation",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00122236",
+          "definition": "action de munir d'un équipement de diffusion du son"
+        },
+        {
+          "id": "FR_SE00122237",
+          "definition": "équipement de diffusion du son"
+        },
+        {
+          "id": "FR_SE00122238",
+          "definition": "action d'ajouter du son à qqch"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00000351",
+      "language": "fr",
+      "headword": {
+        "text": "agresseur",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00000547",
+          "definition": "personne qui attaque qqn avec violence"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00009805",
+      "language": "fr",
+      "headword": {
+        "text": "région",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00014758",
+          "definition": "partie d'un pays"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00009458",
+      "language": "fr",
+      "headword": {
+        "text": "raffinement",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00014195",
+          "definition": "délicatesse, finesse"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00011603",
+      "language": "fr",
+      "headword": {
+        "text": "tutoyer",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00017935",
+          "definition": "s'adresser à qqn en disant \"tu\""
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00110558",
+      "language": "fr",
+      "headword": {
+        "text": "rhéostat",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00120255",
+          "definition": "appareil qui permet de faire varier l'intensité du courant électrique"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00115529",
+      "language": "fr",
+      "headword": {
+        "text": "essouffler",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00007096",
+          "definition": "faire perdre son souffle"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00000751",
+      "language": "fr",
+      "headword": {
+        "text": "approfondir",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00001133",
+          "definition": "étudier de manière plus précise"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00006205",
+      "language": "fr",
+      "headword": {
+        "text": "icône",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00009296",
+          "definition": "peinture religieuse"
+        },
+        {
+          "id": "FR_SE00009297",
+          "definition": "signe, dessin sur un écran d'ordinateur"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00114951",
+      "language": "fr",
+      "headword": {
+        "text": "à cause de",
+        "pos": "preposition"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00003109",
+          "definition": "sert à donner une explication"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00096644",
+      "language": "fr",
+      "headword": {
+        "text": "défavorablement",
+        "pos": "adverb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00099721",
+          "definition": "de façon défavorable, négativement"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00010487",
+      "language": "fr",
+      "headword": {
+        "text": "scooter",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00015958",
+          "definition": "véhicule à deux roues et à moteur"
+        },
+        {
+          "id": "FR_SE00015959"
+        },
+        {
+          "id": "FR_SE00015960"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00011416",
+      "language": "fr",
+      "headword": {
+        "text": "trahison",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00017612",
+          "definition": "fait de trahir qqn, son pays"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00009681",
+      "language": "fr",
+      "headword": {
+        "text": "récompenser",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00014567",
+          "definition": "donner une récompense à qqn"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00100427",
+      "language": "fr",
+      "headword": {
+        "text": "fiente",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00105296",
+          "definition": "excrément d'oiseau"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00114922",
+      "language": "fr",
+      "headword": {
+        "text": "cadrer",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00002801",
+          "definition": "délimiter une image"
+        },
+        {
+          "id": "FR_SE00126820",
+          "definition": "déterminer les limites, le cadre de qqch"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00113102",
+      "language": "fr",
+      "headword": {
+        "text": "toiletter",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00124170",
+          "definition": "faire la toilette d'un animal"
+        },
+        {
+          "id": "FR_SE00124171",
+          "definition": "modifier légèrement, de retoucher en surface"
+        }
+      ]
+    },
+    {
+      "id": "FR_DE00107369",
+      "language": "fr",
+      "headword": {
+        "text": "pesto",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "FR_SE00115133",
+          "definition": "sauce au basilic et à l'ail"
+        }
+      ]
+    }
+  ]
+}

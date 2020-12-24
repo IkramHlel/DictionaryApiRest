@@ -1,0 +1,927 @@
+{
+  "n_results": 50,
+  "results_per_page": 50,
+  "results": [
+    {
+      "id": "EN_DE00001444",
+      "language": "en",
+      "headword": {
+        "text": "bunk",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00002422",
+          "definition": "a bed on a ship, train, etc."
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00007505",
+      "language": "en",
+      "headword": {
+        "text": "mercifully",
+        "pos": "adverb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00012527"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00012110",
+      "language": "en",
+      "headword": {
+        "text": "sugar",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00020234",
+          "definition": "a sweet-tasting substance used in food and drink"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00003610",
+      "language": "en",
+      "headword": {
+        "text": "drunk",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00006006",
+          "definition": "sb who is often drunk"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005396",
+      "language": "en",
+      "headword": {
+        "text": "hairy",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009044",
+          "definition": "having a lot of hair"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005141",
+      "language": "en",
+      "headword": {
+        "text": "goalkeeper",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00008622",
+          "definition": "the player who tries to stop balls or pucks from getting into the goal"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00002519",
+      "language": "en",
+      "headword": {
+        "text": "cooperation",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00004234",
+          "definition": "the act or fact of cooperating"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00001203",
+      "language": "en",
+      "headword": {
+        "text": "bore",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00002006",
+          "definition": "a boring person"
+        },
+        {
+          "id": "EN_SE00002007",
+          "definition": " a boring activity"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00001360",
+      "language": "en",
+      "headword": {
+        "text": "broadcasting",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00002293",
+          "definition": "an activity of transmitting programs on the radio or television"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00009588",
+      "language": "en",
+      "headword": {
+        "text": "publicise",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00015937",
+          "definition": "to make the public aware"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005483",
+      "language": "en",
+      "headword": {
+        "text": "harmful",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009187",
+          "definition": "likely to cause harm"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00002245",
+      "language": "en",
+      "headword": {
+        "text": "community college",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00003787",
+          "definition": "a two-year college for people from a local area"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005304",
+      "language": "en",
+      "headword": {
+        "text": "gross",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00008884",
+          "definition": "(of an amount) total before anything is subtracted"
+        },
+        {
+          "id": "EN_SE00008885",
+          "definition": "disgusting"
+        },
+        {
+          "id": "EN_SE00008886",
+          "definition": "very seriously wrong"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00012256",
+      "language": "en",
+      "headword": {
+        "text": "sweet",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00020468",
+          "definition": "a piece of candy"
+        },
+        {
+          "id": "EN_SE00020469",
+          "definition": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00011844",
+      "language": "en",
+      "headword": {
+        "text": "steep",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00019740",
+          "definition": "sloping a lot"
+        },
+        {
+          "id": "EN_SE00019741",
+          "definition": "increasing or decreasing quickly"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00011389",
+      "language": "en",
+      "headword": {
+        "text": "snowman",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00019015",
+          "definition": "an object made out of snow in the shape of a person"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005585",
+      "language": "en",
+      "headword": {
+        "text": "heiress",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009382",
+          "definition": "a woman or girl who is heir to sb's money or property"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005835",
+      "language": "en",
+      "headword": {
+        "text": "hug",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009819",
+          "definition": "the act of hugging"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005312",
+      "language": "en",
+      "headword": {
+        "text": "grove",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00008905",
+          "definition": "a group of fruit trees"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00007268",
+      "language": "en",
+      "headword": {
+        "text": "mainstream",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00012134"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00000405",
+      "language": "en",
+      "headword": {
+        "text": "animosity",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00000626",
+          "definition": "strong dislike"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00004605",
+      "language": "en",
+      "headword": {
+        "text": "floorboard",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00007651",
+          "definition": "a long piece of wood that forms part of a floor"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00011825",
+      "language": "en",
+      "headword": {
+        "text": "status quo",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00019714"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005704",
+      "language": "en",
+      "headword": {
+        "text": "hit on",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009571",
+          "definition": "to suddenly think of a good idea"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00010987",
+      "language": "en",
+      "headword": {
+        "text": "shocking",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00018369",
+          "definition": "causing a feeling of shock"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00004282",
+      "language": "en",
+      "headword": {
+        "text": "fasten",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00007115",
+          "definition": "to attach two parts of sth to close it"
+        },
+        {
+          "id": "EN_SE00007116",
+          "definition": "to attach one thing to another firmly"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00014063",
+      "language": "en",
+      "headword": {
+        "text": "YMCA",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00023452",
+          "definition": "an organization that provides community classes, sports facilities, accommodations, etc."
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00007391",
+      "language": "en",
+      "headword": {
+        "text": "Master's Degree",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00012334",
+          "definition": "a graduate degree requiring one or two more years of study after a first degree"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00000837",
+      "language": "en",
+      "headword": {
+        "text": "basic",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00001356",
+          "definition": "forming an essential part"
+        },
+        {
+          "id": "EN_SE00001357",
+          "definition": "of the simplest type"
+        },
+        {
+          "id": "EN_SE00001358",
+          "definition": "before other things are added"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005687",
+      "language": "en",
+      "headword": {
+        "text": "hip",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009541",
+          "definition": "fashionable and popular"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00011815",
+      "language": "en",
+      "headword": {
+        "text": "statesman",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00019701",
+          "definition": "a respected politician"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00012848",
+      "language": "en",
+      "headword": {
+        "text": "traitor",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00021533",
+          "definition": "sb who is disloyal to their country, a friend, etc."
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00006940",
+      "language": "en",
+      "headword": {
+        "text": "level",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00011543",
+          "definition": "flat and not at an angle"
+        },
+        {
+          "id": "EN_SE00011544",
+          "definition": "(of two objects) with edges at the same height"
+        },
+        {
+          "id": "EN_SE00011545",
+          "definition": "(of a score or amount) equal to another"
+        },
+        {
+          "id": "EN_SE00011546"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00010477",
+      "language": "en",
+      "headword": {
+        "text": "rustle",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00017515"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00012452",
+      "language": "en",
+      "headword": {
+        "text": "technique",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00020789",
+          "definition": "a way of doing sth that involves using particular skills"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00001946",
+      "language": "en",
+      "headword": {
+        "text": "circular",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00003269",
+          "definition": "in the shape of a circle"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00000539",
+      "language": "en",
+      "headword": {
+        "text": "arms",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00000834",
+          "definition": "weapons for military groups"
+        },
+        {
+          "id": "EN_SE00000835"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00007320",
+      "language": "en",
+      "headword": {
+        "text": "manner",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00012226",
+          "definition": "a way of behaving"
+        },
+        {
+          "id": "EN_SE00012227",
+          "definition": "the way sth is done or happens"
+        },
+        {
+          "id": "EN_SE00012228"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00007332",
+      "language": "en",
+      "headword": {
+        "text": "manufacturer",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00012241",
+          "definition": "a company that produces products for sale"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00008027",
+      "language": "en",
+      "headword": {
+        "text": "nerve-wracking",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00013318",
+          "definition": "causing fear or nervousness"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00011425",
+      "language": "en",
+      "headword": {
+        "text": "sock",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00019070",
+          "definition": "one of a pair of cloth or wool coverings for your feet"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00002602",
+      "language": "en",
+      "headword": {
+        "text": "courage",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00004371",
+          "definition": "the quality of being brave"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00013005",
+      "language": "en",
+      "headword": {
+        "text": "turkey",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00021769",
+          "definition": "a large bird that is kept for its meat, or the meat itself"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00008609",
+      "language": "en",
+      "headword": {
+        "text": "padlock",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00014326",
+          "definition": "to fasten with a padlock"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00002977",
+      "language": "en",
+      "headword": {
+        "text": "defiance",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00005010",
+          "definition": "complete refusal to obey"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00013538",
+      "language": "en",
+      "headword": {
+        "text": "vote",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00022553",
+          "definition": "to state who or what you choose in an election, competition, etc."
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00012896",
+      "language": "en",
+      "headword": {
+        "text": "treasurer",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00021606",
+          "definition": "sb who controls an organization's finances"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00003516",
+      "language": "en",
+      "headword": {
+        "text": "drag by",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00005838",
+          "definition": "(of time or an event) to seem to pass slowly"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00013296",
+      "language": "en",
+      "headword": {
+        "text": "unwisely",
+        "pos": "adverb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00022180"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00011367",
+      "language": "en",
+      "headword": {
+        "text": "sneeze",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00018992",
+          "definition": "to suddenly and forcefully blow air out through your nose and mouth"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00002768",
+      "language": "en",
+      "headword": {
+        "text": "curb",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00004659",
+          "definition": "to control behavior"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00004132",
+      "language": "en",
+      "headword": {
+        "text": "explore",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00006815",
+          "definition": "to travel around an area of land to find new things"
+        },
+        {
+          "id": "EN_SE00006816",
+          "definition": "to learn about sth new"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00009340",
+      "language": "en",
+      "headword": {
+        "text": "present",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00015523",
+          "definition": "to give sth to sb, especially in a formal way"
+        },
+        {
+          "id": "EN_SE00015524",
+          "definition": "to show and explain sth you have done to others"
+        },
+        {
+          "id": "EN_SE00015525"
+        },
+        {
+          "id": "EN_SE00015526",
+          "definition": "to show in a particular way"
+        },
+        {
+          "id": "EN_SE00015527",
+          "definition": "to show an official document to the authorities"
+        },
+        {
+          "id": "EN_SE00015528",
+          "definition": "to organize or create a performance, film, etc."
+        },
+        {
+          "id": "EN_SE00015529",
+          "definition": "to introduce programs or guests on a TV or radio program"
+        },
+        {
+          "id": "EN_SE00015530"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00008846",
+      "language": "en",
+      "headword": {
+        "text": "per",
+        "pos": "preposition"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00014714",
+          "definition": "for each one"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00006360",
+      "language": "en",
+      "headword": {
+        "text": "interjection",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00010566",
+          "definition": "in linguistics, an exclamation"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00005792",
+      "language": "en",
+      "headword": {
+        "text": "horrified",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00009735",
+          "definition": "very shocked"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00012599",
+      "language": "en",
+      "headword": {
+        "text": "thirteenth",
+        "pos": "number"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00021065"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00010795",
+      "language": "en",
+      "headword": {
+        "text": "self-sufficient",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00018007",
+          "definition": "able to take care of yourself"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00006004",
+      "language": "en",
+      "headword": {
+        "text": "immunity",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00010070",
+          "definition": "exemption"
+        },
+        {
+          "id": "EN_SE00010071",
+          "definition": "resistance to disease"
+        }
+      ]
+    },
+    {
+      "id": "EN_DE00002291",
+      "language": "en",
+      "headword": {
+        "text": "component",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "EN_SE00003858",
+          "definition": "one part of a system or substance"
+        }
+      ]
+    }
+  ]
+}
